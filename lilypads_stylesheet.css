@@ -1,0 +1,25 @@
+body {
+    margin-top: 2%;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+td {
+    opacity: 0.3;
+}
+
+.lilypad {
+    padding: 8px;
+    display: block;
+}
+
+td:hover {
+    opacity: 1.0;
+    cursor: url(images/frog.gif), auto;
+}
+
+
+
